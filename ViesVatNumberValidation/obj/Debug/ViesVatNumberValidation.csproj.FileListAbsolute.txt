@@ -1,0 +1,9 @@
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.csprojResolveAssemblyReference.cache
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.Properties.Resources.resources
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.csproj.GenerateResource.Cache
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\bin\Debug\ViesVatNumberValidation.exe.config
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\bin\Debug\ViesVatNumberValidation.exe
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\bin\Debug\ViesVatNumberValidation.pdb
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.exe
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.pdb
+J:\PRG\cpp\vs_workspace\CS\WF\ViesVatNumberValidation\ViesVatNumberValidation\obj\Debug\ViesVatNumberValidation.Form1.resources
